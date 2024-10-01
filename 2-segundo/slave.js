@@ -1,4 +1,4 @@
-// Programa esclavo que suma los números en un rango dado
+// Programa esclavo que suma los números en un rango dado...
 
 const sumRange = (start, end) => {
     let sum = 0;
